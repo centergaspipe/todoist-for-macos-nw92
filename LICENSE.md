@@ -1,4 +1,4 @@
-
+Enhance Todoist for macOS with Todoist for macOS advanced Tool: auto-sync & export to PDF, the #1 tool. Includes auto-sync and export to PDF for a smoother experience.
 
 
 
